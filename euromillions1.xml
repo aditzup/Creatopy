@@ -146,8 +146,8 @@
             gain_EPlus_P="286"
             gain_tot_P="286"/>
       <phrase Gagnant=""
-              mentionLegale_1="* Montant non garanti (sauf avis contraire publié sur fdj.fr) à partager au rang 1 dans les pays participants. Voir règlement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."
-              mentionLegale_2="* Montant non garanti (sauf avis contraire publié sur fdj.fr) à partager au rang 1 dans les pays participants. Voir règlement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."/>
+              mentionLegale_1="* Montant non garanti (sauf avis contraire publiÃ© sur fdj.fr) Ã  partager au rang 1 dans les pays participants. Voir rÃ¨glement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."
+              mentionLegale_2="* Montant non garanti (sauf avis contraire publiÃ© sur fdj.fr) Ã  partager au rang 1 dans les pays participants. Voir rÃ¨glement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."/>
       <nbGagnant BEL="0"/>
       <nbGagnant CAM="0"/>
       <nbGagnant FDJ="0"/>
@@ -159,14 +159,14 @@
       <nbGagnant SUI="0"/>
       <date prochainTirageC="16/05/2025"/>
       <date prochainTirageL="Vendredi 16 mai 2025"/>
-      <prochainTirage phraseMontant="près de 154 millions d'euros* à gagner !"
+      <prochainTirage phraseMontant="prÃ¨s de 154 millions d'euros* Ã  gagner !"
                       superDraw="N"
                       rollDown="N"/>
       <montant garanti_F=""/>
       <montant garanti_P=""/>
       <montant reporte_F="135 332 718"/>
       <montant reporte_P="16 149 488 908"/>
-      <montant estime_F="154 000 000"/>
+      <montant estime_F="254 000 000"/>
       <montant estime_P="18 377 088 299"/>
    </tirage>
    <myMillion>
