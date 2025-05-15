@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EuroMillions>
+   <tirage id="38"
+           date="Mardi 13 mai 2025"
+           dateC="13/05/2025"
+           dateLimitePaiementC="12/08/2025"
+           superDraw="N"
+           cap="250 000 000">
+      <phrase intro=""/>
+      <resultat b="09,19,44,47,50" b_s="19,09,44,47,50" e="02,09" e_s="02,09"/>
+      <rapports disponible="O"/>
+      <rollDown actif="N" numRang="" nbCycle="11" nbCycleMax=""/>
+      <g5_2 nbrFR="0"
+            nbrEPlus="0"
+            nbrEU="0"
+            gain_F="---"
+            gain_EPlus_F="---"
+            gain_tot_F="---"
+            gain_P="---"
+            gain_EPlus_P="---"
+            gain_tot_P="---"/>
+      <g5_1 nbrFR="1"
+            nbrEPlus="0"
+            nbrEU="2"
+            gain_F="382 845,10"
+            gain_EPlus_F="---"
+            gain_tot_F="382 845,10"
+            gain_P="45 685 572"
+            gain_EPlus_P="---"
+            gain_tot_P="45 685 572"/>
+      <g5 nbrFR="0"
+          nbrEPlus="0"
+          nbrEU="4"
+          gain_F="44 738,60"
+          gain_EPlus_F="---"
+          gain_tot_F="44 738,60"
+          gain_P="5 338 735"
+          gain_EPlus_P="---"
+          gain_tot_P="5 338 735"/>
+      <g4_2 nbrFR="7"
+            nbrEPlus="3"
+            nbrEU="48"
+            gain_F="1 161,20"
+            gain_EPlus_F="986,00"
+            gain_tot_F="2 147,20"
+            gain_P="138 568"
+            gain_EPlus_P="117 661"
+            gain_tot_P="256 229"/>
+      <g4_1 nbrFR="149"
+            nbrEPlus="70"
+            nbrEU="760"
+            gain_F="135,10"
+            gain_EPlus_F="23,40"
+            gain_tot_F="158,50"
+            gain_P="16 121"
+            gain_EPlus_P="2 792"
+            gain_tot_P="18 913"/>
+      <g3_2 nbrFR="450"
+            nbrEPlus="208"
+            nbrEU="2 167"
+            gain_F="50,00"
+            gain_EPlus_F="7,90"
+            gain_tot_F="57,90"
+            gain_P="5 966"
+            gain_EPlus_P="942"
+            gain_tot_P="6 908"/>
+      <g4 nbrFR="293"
+          nbrEPlus="0"
+          nbrEU="1 643"
+          gain_F="46,40"
+          gain_EPlus_F="---"
+          gain_tot_F="46,40"
+          gain_P="5 536"
+          gain_EPlus_P="---"
+          gain_tot_P="5 536"/>
+      <g2_2 nbrFR="6 504"
+            nbrEPlus="3 020"
+            nbrEU="29 645"
+            gain_F="12,80"
+            gain_EPlus_F="1,30"
+            gain_tot_F="14,10"
+            gain_P="1 527"
+            gain_EPlus_P="155"
+            gain_tot_P="1 682"/>
+      <g3_1 nbrFR="9 218"
+            nbrEPlus="4 321"
+            nbrEU="46 202"
+            gain_F="9,20"
+            gain_EPlus_F="2,50"
+            gain_tot_F="11,70"
+            gain_P="1 097"
+            gain_EPlus_P="298"
+            gain_tot_P="1 395"/>
+      <g3 nbrFR="16 322"
+          nbrEPlus="0"
+          nbrEU="81 295"
+          gain_F="9,70"
+          gain_EPlus_F="---"
+          gain_tot_F="9,70"
+          gain_P="1 157"
+          gain_EPlus_P="---"
+          gain_tot_P="1 157"/>
+      <g1_2 nbrFR="33 889"
+            nbrEPlus="15 809"
+            nbrEU="156 013"
+            gain_F="6,10"
+            gain_EPlus_F="3,20"
+            gain_tot_F="9,30"
+            gain_P="727"
+            gain_EPlus_P="381"
+            gain_tot_P="1 108"/>
+      <g0_2 nbrFR="0"
+            nbrEPlus="25 509"
+            nbrEU="0"
+            gain_F="---"
+            gain_EPlus_F="9,40"
+            gain_tot_F="9,40"
+            gain_P="---"
+            gain_EPlus_P="1 121"
+            gain_tot_P="1 121"/>
+      <g2_1 nbrFR="121 166"
+            nbrEPlus="57 291"
+            nbrEU="558 850"
+            gain_F="5,40"
+            gain_EPlus_F="2,30"
+            gain_tot_F="7,70"
+            gain_P="644"
+            gain_EPlus_P="274"
+            gain_tot_P="918"/>
+      <g2 nbrFR="244 061"
+          nbrEPlus="0"
+          nbrEU="1 142 108"
+          gain_F="4,20"
+          gain_EPlus_F="---"
+          gain_tot_F="4,20"
+          gain_P="501"
+          gain_EPlus_P="---"
+          gain_tot_P="501"/>
+      <g0_1 nbrFR="0"
+            nbrEPlus="497 520"
+            nbrEU="0"
+            gain_F="---"
+            gain_EPlus_F="2,40"
+            gain_tot_F="2,40"
+            gain_P="---"
+            gain_EPlus_P="286"
+            gain_tot_P="286"/>
+      <phrase Gagnant=""
+              mentionLegale_1="* Montant non garanti (sauf avis contraire publié sur fdj.fr) à partager au rang 1 dans les pays participants. Voir règlement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."
+              mentionLegale_2="* Montant non garanti (sauf avis contraire publié sur fdj.fr) à partager au rang 1 dans les pays participants. Voir règlement de l'offre de jeu EuroMillions-My Million et du jeu Etoile+."/>
+      <nbGagnant BEL="0"/>
+      <nbGagnant CAM="0"/>
+      <nbGagnant FDJ="0"/>
+      <nbGagnant IRE="0"/>
+      <nbGagnant JSC="0"/>
+      <nbGagnant LAE="0"/>
+      <nbGagnant LUX="0"/>
+      <nbGagnant OLG="0"/>
+      <nbGagnant SUI="0"/>
+      <date prochainTirageC="16/05/2025"/>
+      <date prochainTirageL="Vendredi 16 mai 2025"/>
+      <prochainTirage phraseMontant="près de 154 millions d'euros* à gagner !"
+                      superDraw="N"
+                      rollDown="N"/>
+      <montant garanti_F=""/>
+      <montant garanti_P=""/>
+      <montant reporte_F="135 332 718"/>
+      <montant reporte_P="16 149 488 908"/>
+      <montant estime_F="154 000 000"/>
+      <montant estime_P="18 377 088 299"/>
+   </tirage>
+   <myMillion>
+      <nbGagnants>1</nbGagnants>
+      <montant>1 000 000</montant>
+      <prochainTirageDateC>16/05/2025</prochainTirageDateC>
+      <prochainTirageDateL>Vendredi 16 mai 2025</prochainTirageDateL>
+      <prochainTirageNbGagnants>1</prochainTirageNbGagnants>
+      <prochainTirageMontant>1 000 000</prochainTirageMontant>
+      <codes>
+         <code>SQ 356 6673</code>
+      </codes>
+   </myMillion>
+   <raffle>
+      <nbGagnants>0</nbGagnants>
+      <montant>0</montant>
+      <prochainTirageDateC>16/05/2025</prochainTirageDateC>
+      <prochainTirageDateL>Vendredi 16 mai 2025</prochainTirageDateL>
+      <prochainTirageNbGagnants>0</prochainTirageNbGagnants>
+      <prochainTirageMontant>0</prochainTirageMontant>
+      <codes/>
+   </raffle>
+</EuroMillions>
